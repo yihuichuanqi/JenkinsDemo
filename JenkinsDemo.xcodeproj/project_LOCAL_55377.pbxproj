@@ -15,6 +15,9 @@
 		185F4B772249EDFD00427341 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 185F4B762249EDFD00427341 /* main.m */; };
 		185F4B812249EDFD00427341 /* JenkinsDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 185F4B802249EDFD00427341 /* JenkinsDemoTests.m */; };
 		185F4B8C2249EDFD00427341 /* JenkinsDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 185F4B8B2249EDFD00427341 /* JenkinsDemoUITests.m */; };
+		7EBE8EB829BC82FB00001BBB /* MasterModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EBE8EB729BC82FB00001BBB /* MasterModel.m */; };
+		7EBE8EBE29BC83B200001BBB /* BranchModel2.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EBE8EBD29BC83B200001BBB /* BranchModel2.m */; };
+		7EBE8ECA29BC847100001BBB /* KLView2.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EBE8EC929BC847100001BBB /* KLView2.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +54,12 @@
 		185F4B872249EDFD00427341 /* JenkinsDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JenkinsDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		185F4B8B2249EDFD00427341 /* JenkinsDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JenkinsDemoUITests.m; sourceTree = "<group>"; };
 		185F4B8D2249EDFD00427341 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7EBE8EB629BC82FA00001BBB /* MasterModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MasterModel.h; sourceTree = "<group>"; };
+		7EBE8EB729BC82FB00001BBB /* MasterModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MasterModel.m; sourceTree = "<group>"; };
+		7EBE8EBC29BC83B200001BBB /* BranchModel2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BranchModel2.h; sourceTree = "<group>"; };
+		7EBE8EBD29BC83B200001BBB /* BranchModel2.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BranchModel2.m; sourceTree = "<group>"; };
+		7EBE8EC829BC847100001BBB /* KLView2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KLView2.h; sourceTree = "<group>"; };
+		7EBE8EC929BC847100001BBB /* KLView2.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KLView2.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +114,12 @@
 				185F4B682249EDFA00427341 /* AppDelegate.m */,
 				185F4B6A2249EDFA00427341 /* ViewController.h */,
 				185F4B6B2249EDFA00427341 /* ViewController.m */,
+				7EBE8EB629BC82FA00001BBB /* MasterModel.h */,
+				7EBE8EB729BC82FB00001BBB /* MasterModel.m */,
+				7EBE8EBC29BC83B200001BBB /* BranchModel2.h */,
+				7EBE8EBD29BC83B200001BBB /* BranchModel2.m */,
+				7EBE8EC829BC847100001BBB /* KLView2.h */,
+				7EBE8EC929BC847100001BBB /* KLView2.m */,
 				185F4B6D2249EDFA00427341 /* Main.storyboard */,
 				185F4B702249EDFC00427341 /* Assets.xcassets */,
 				185F4B722249EDFC00427341 /* LaunchScreen.storyboard */,
@@ -262,7 +277,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7EBE8ECA29BC847100001BBB /* KLView2.m in Sources */,
 				185F4B6C2249EDFA00427341 /* ViewController.m in Sources */,
+				7EBE8EB829BC82FB00001BBB /* MasterModel.m in Sources */,
+				7EBE8EBE29BC83B200001BBB /* BranchModel2.m in Sources */,
 				185F4B772249EDFD00427341 /* main.m in Sources */,
 				185F4B692249EDFA00427341 /* AppDelegate.m in Sources */,
 			);
