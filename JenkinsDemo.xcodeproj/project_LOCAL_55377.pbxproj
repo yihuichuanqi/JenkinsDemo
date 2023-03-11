@@ -18,7 +18,6 @@
 		7EBE8EB829BC82FB00001BBB /* MasterModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EBE8EB729BC82FB00001BBB /* MasterModel.m */; };
 		7EBE8EBE29BC83B200001BBB /* BranchModel2.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EBE8EBD29BC83B200001BBB /* BranchModel2.m */; };
 		7EBE8ECA29BC847100001BBB /* KLView2.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EBE8EC929BC847100001BBB /* KLView2.m */; };
-		7EBE8EC429BC840500001BBB /* MasterView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EBE8EC329BC840500001BBB /* MasterView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,8 +60,6 @@
 		7EBE8EBD29BC83B200001BBB /* BranchModel2.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BranchModel2.m; sourceTree = "<group>"; };
 		7EBE8EC829BC847100001BBB /* KLView2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KLView2.h; sourceTree = "<group>"; };
 		7EBE8EC929BC847100001BBB /* KLView2.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KLView2.m; sourceTree = "<group>"; };
-		7EBE8EC229BC840500001BBB /* MasterView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MasterView.h; sourceTree = "<group>"; };
-		7EBE8EC329BC840500001BBB /* MasterView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MasterView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -123,8 +120,6 @@
 				7EBE8EBD29BC83B200001BBB /* BranchModel2.m */,
 				7EBE8EC829BC847100001BBB /* KLView2.h */,
 				7EBE8EC929BC847100001BBB /* KLView2.m */,
-				7EBE8EC229BC840500001BBB /* MasterView.h */,
-				7EBE8EC329BC840500001BBB /* MasterView.m */,
 				185F4B6D2249EDFA00427341 /* Main.storyboard */,
 				185F4B702249EDFC00427341 /* Assets.xcassets */,
 				185F4B722249EDFC00427341 /* LaunchScreen.storyboard */,
@@ -284,7 +279,6 @@
 			files = (
 				7EBE8ECA29BC847100001BBB /* KLView2.m in Sources */,
 				185F4B6C2249EDFA00427341 /* ViewController.m in Sources */,
-				7EBE8EC429BC840500001BBB /* MasterView.m in Sources */,
 				7EBE8EB829BC82FB00001BBB /* MasterModel.m in Sources */,
 				7EBE8EBE29BC83B200001BBB /* BranchModel2.m in Sources */,
 				185F4B772249EDFD00427341 /* main.m in Sources */,
